@@ -26,6 +26,7 @@ pandas pythom method.
 - The value of GDP contracted in the second quater of 2020 during the covid 19.
 - Lagos states have the highest initial budget follow by cross river states.
 - The impact of covid-19 force states to revised thier initial budget downward.
+- Cross river state had the highest record of the budget review.
 
 ### Stand out
 Explore more insight to determine relationship between features.
